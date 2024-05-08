@@ -4,7 +4,7 @@
 
 ## Meu Nome é Carlos!
 ### 🌱 Atualmente estou aprendendo C# com foco ASP e WPF.NET para o desenvolvimento tanto web quanto de softwares.
-### 🐘 Para não me limitar ao C#, estudo PHP pela sua incrivel capacidade de criar sites dinâmicos e ser um linguagem simples.
+### 🐘 Para não me limitar ao C#, estudo PHP pela sua incrivel capacidade de criar sites dinâmicos e ser uma linguagem simples e poderosa.
 <br>
 <hr>
 <br>
