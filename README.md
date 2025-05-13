@@ -12,7 +12,6 @@ Sou movido por desafios, novas ideias e conceitos que me ajudem a evoluir consta
 
 <br>
 <hr>
-🛠️ Tecnologias e Linguagens
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" loading="lazy" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" loading="lazy" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40"/> <br>
+
 📫 Contato
 <div> <a href="mailto:carloseduardomenegassi0@gmail.com" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/carlosemenegassi/" target="_blank"> <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> </div>
