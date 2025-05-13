@@ -2,7 +2,7 @@
 <hr>
 👨‍💻 Sobre mim
 Me chamo Carlos e sou desenvolvedor especializado em C#, com experiência em WPF, Windows Forms e ASP.NET.
-Tenho atuado no desenvolvimento de aplicações desktop, web services, testes unitários, bem como na refatoração e manutenção de sistemas legados em C# — e até mesmo em Delphi 6.
+Tenho atuado no desenvolvimento de aplicações desktop, web services, testes unitários, bem como na refatoração e manutenção de sistemas legados em C# — e até mesmo em Delphi.
 
 <br>
 <hr>
