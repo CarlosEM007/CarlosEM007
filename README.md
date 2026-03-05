@@ -19,9 +19,11 @@
 <hr>
 
 ### De uma olhada também:
+<div style="display: inline">
 <a href="https://www.linkedin.com/in/carlosemenegassi/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://play.unity.com/pt/user/ac80e22d-fdcb-47eb-8b8f-8ba345a58da5">
   <img src="https://img.shields.io/badge/Unity-FFFFFF.svg?style=for-the-badge&logo=Unity&logoColor=black">
 </a>
+</div>
